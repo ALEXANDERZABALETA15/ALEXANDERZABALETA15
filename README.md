@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Jhon Alexander Zabaleta
 
-<!--
-**ALEXANDERZABALETA15/ALEXANDERZABALETA15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Técnico en Programación de Aplicaciones y Servicios para la Nube
 
-Here are some ideas to get you started:
+Soy un desarrollador colombiano apasionado por la tecnología cloud
+y el desarrollo de software. Actualmente construyendo mi portafolio
+y buscando mi primera oportunidad profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que manejo
+- ☁️ AWS (en aprendizaje)
+- 🐍 Python
+- 🌐 JavaScript 
+- 🎨 HTML / CSS
+
+## 📚 Actualmente aprendiendo
+- AWS Cloud Practitioner
+- Docker
+- Bases de Datos relaciones y no relacionales
+- Despliegue de apps en la nube
+- Ingles
+
+## 📫 Contáctame
+- LinkedIn: https://www.linkedin.com/in/jhon-alexander-zabaleta-dev/
+- Email: Jhon.alexanderzc@gmail.com
